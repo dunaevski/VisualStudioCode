@@ -11,18 +11,17 @@ namespace ArrayNew
         static void Return(int[] a)
         {
             const int sum = 10;
-            var sum1 = 0;
-            var n = 0;
-            var m = 0;
-            var k = 0;
 
             for (int i = 10; i < a.Length; i++)
             {
+                int sum1;
+                int n;
+                int m;
                 if (a[i] > 100)
                 {
                     m = a[i] % 100;
                     n = m % 10;
-                    k = m / 10;
+                    var k = m / 10;
                     sum1 = 1 + n + k;
                 }
                 else
