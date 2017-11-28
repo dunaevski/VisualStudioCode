@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2009
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConsol", "ConsoleApp1\TestConsol.csproj", "{503C110F-0BB7-4BFA-83ED-C3B472CA9FDF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConsol", "TestConsol\TestConsol.csproj", "{503C110F-0BB7-4BFA-83ED-C3B472CA9FDF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExDebug", "ExDebug\ExDebug.csproj", "{E8A7CE89-F0E0-41C4-87A2-1AE1E4D087F3}"
 EndProject
@@ -13,7 +13,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Average", "average\Average.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "for_while", "for_while\for_while.csproj", "{528DC3D1-A0DF-4725-8CCD-E6C9B2CE6CFE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array", "ConsoleApp2\Array.csproj", "{918DA316-6071-46BA-BF6A-5FF49C8123ED}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array", "Array\Array.csproj", "{918DA316-6071-46BA-BF6A-5FF49C8123ED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
