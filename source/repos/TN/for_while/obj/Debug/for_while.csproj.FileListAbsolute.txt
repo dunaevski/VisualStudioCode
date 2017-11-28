@@ -1,0 +1,7 @@
+C:\Users\yalta\OneDrive\Project Visual Studio\source\repos\TN\for_while\bin\Debug\for_while.exe.config
+C:\Users\yalta\OneDrive\Project Visual Studio\source\repos\TN\for_while\bin\Debug\for_while.exe
+C:\Users\yalta\OneDrive\Project Visual Studio\source\repos\TN\for_while\bin\Debug\for_while.pdb
+C:\Users\yalta\OneDrive\Project Visual Studio\source\repos\TN\for_while\obj\Debug\for_while.csproj.CoreCompileInputs.cache
+C:\Users\yalta\OneDrive\Project Visual Studio\source\repos\TN\for_while\obj\Debug\for_while.exe
+C:\Users\yalta\OneDrive\Project Visual Studio\source\repos\TN\for_while\obj\Debug\for_while.pdb
+C:\Users\yalta\OneDrive\Project Visual Studio\source\repos\TN\for_while\obj\Debug\for_while.csprojResolveAssemblyReference.cache

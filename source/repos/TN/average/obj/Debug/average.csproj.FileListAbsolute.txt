@@ -1,0 +1,14 @@
+C:\Users\yalta\source\repos\ConsoleApp1\average\obj\Debug\average.csprojResolveAssemblyReference.cache
+C:\Users\yalta\source\repos\ConsoleApp1\average\obj\Debug\average.csproj.CoreCompileInputs.cache
+C:\Users\yalta\source\repos\ConsoleApp1\average\bin\Debug\average.exe.config
+C:\Users\yalta\source\repos\ConsoleApp1\average\bin\Debug\average.exe
+C:\Users\yalta\source\repos\ConsoleApp1\average\bin\Debug\average.pdb
+C:\Users\yalta\source\repos\ConsoleApp1\average\obj\Debug\average.exe
+C:\Users\yalta\source\repos\ConsoleApp1\average\obj\Debug\average.pdb
+C:\Users\yalta\OneDrive\Project Visual Studio\source\repos\TN\average\bin\Debug\average.exe.config
+C:\Users\yalta\OneDrive\Project Visual Studio\source\repos\TN\average\bin\Debug\average.exe
+C:\Users\yalta\OneDrive\Project Visual Studio\source\repos\TN\average\bin\Debug\average.pdb
+C:\Users\yalta\OneDrive\Project Visual Studio\source\repos\TN\average\obj\Debug\Average.csprojResolveAssemblyReference.cache
+C:\Users\yalta\OneDrive\Project Visual Studio\source\repos\TN\average\obj\Debug\Average.csproj.CoreCompileInputs.cache
+C:\Users\yalta\OneDrive\Project Visual Studio\source\repos\TN\average\obj\Debug\average.exe
+C:\Users\yalta\OneDrive\Project Visual Studio\source\repos\TN\average\obj\Debug\average.pdb

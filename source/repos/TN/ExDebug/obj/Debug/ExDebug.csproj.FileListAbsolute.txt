@@ -1,0 +1,14 @@
+C:\Users\yalta\source\repos\ConsoleApp1\ExDebug\bin\Debug\ExDebug.exe.config
+C:\Users\yalta\source\repos\ConsoleApp1\ExDebug\bin\Debug\ExDebug.exe
+C:\Users\yalta\source\repos\ConsoleApp1\ExDebug\bin\Debug\ExDebug.pdb
+C:\Users\yalta\source\repos\ConsoleApp1\ExDebug\obj\Debug\ExDebug.csproj.CoreCompileInputs.cache
+C:\Users\yalta\source\repos\ConsoleApp1\ExDebug\obj\Debug\ExDebug.exe
+C:\Users\yalta\source\repos\ConsoleApp1\ExDebug\obj\Debug\ExDebug.pdb
+C:\Users\yalta\source\repos\ConsoleApp1\ExDebug\obj\Debug\ExDebug.csprojResolveAssemblyReference.cache
+C:\Users\yalta\OneDrive\Project Visual Studio\source\repos\TN\ExDebug\bin\Debug\ExDebug.exe.config
+C:\Users\yalta\OneDrive\Project Visual Studio\source\repos\TN\ExDebug\bin\Debug\ExDebug.exe
+C:\Users\yalta\OneDrive\Project Visual Studio\source\repos\TN\ExDebug\bin\Debug\ExDebug.pdb
+C:\Users\yalta\OneDrive\Project Visual Studio\source\repos\TN\ExDebug\obj\Debug\ExDebug.csprojResolveAssemblyReference.cache
+C:\Users\yalta\OneDrive\Project Visual Studio\source\repos\TN\ExDebug\obj\Debug\ExDebug.csproj.CoreCompileInputs.cache
+C:\Users\yalta\OneDrive\Project Visual Studio\source\repos\TN\ExDebug\obj\Debug\ExDebug.exe
+C:\Users\yalta\OneDrive\Project Visual Studio\source\repos\TN\ExDebug\obj\Debug\ExDebug.pdb

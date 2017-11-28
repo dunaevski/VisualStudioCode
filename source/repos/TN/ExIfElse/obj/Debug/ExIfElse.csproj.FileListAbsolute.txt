@@ -1,0 +1,14 @@
+C:\Users\yalta\source\repos\ConsoleApp1\ExIfElse\bin\Debug\ExIfElse.exe.config
+C:\Users\yalta\source\repos\ConsoleApp1\ExIfElse\bin\Debug\ExIfElse.exe
+C:\Users\yalta\source\repos\ConsoleApp1\ExIfElse\bin\Debug\ExIfElse.pdb
+C:\Users\yalta\source\repos\ConsoleApp1\ExIfElse\obj\Debug\ExIfElse.csprojResolveAssemblyReference.cache
+C:\Users\yalta\source\repos\ConsoleApp1\ExIfElse\obj\Debug\ExIfElse.csproj.CoreCompileInputs.cache
+C:\Users\yalta\source\repos\ConsoleApp1\ExIfElse\obj\Debug\ExIfElse.exe
+C:\Users\yalta\source\repos\ConsoleApp1\ExIfElse\obj\Debug\ExIfElse.pdb
+C:\Users\yalta\OneDrive\Project Visual Studio\source\repos\TN\ExIfElse\bin\Debug\ExIfElse.exe.config
+C:\Users\yalta\OneDrive\Project Visual Studio\source\repos\TN\ExIfElse\bin\Debug\ExIfElse.exe
+C:\Users\yalta\OneDrive\Project Visual Studio\source\repos\TN\ExIfElse\bin\Debug\ExIfElse.pdb
+C:\Users\yalta\OneDrive\Project Visual Studio\source\repos\TN\ExIfElse\obj\Debug\ExIfElse.csprojResolveAssemblyReference.cache
+C:\Users\yalta\OneDrive\Project Visual Studio\source\repos\TN\ExIfElse\obj\Debug\ExIfElse.csproj.CoreCompileInputs.cache
+C:\Users\yalta\OneDrive\Project Visual Studio\source\repos\TN\ExIfElse\obj\Debug\ExIfElse.exe
+C:\Users\yalta\OneDrive\Project Visual Studio\source\repos\TN\ExIfElse\obj\Debug\ExIfElse.pdb
