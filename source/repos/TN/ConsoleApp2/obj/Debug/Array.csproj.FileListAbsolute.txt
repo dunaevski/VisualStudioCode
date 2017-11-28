@@ -5,3 +5,10 @@ C:\Users\yalta\OneDrive\Project Visual Studio\source\repos\TN\ConsoleApp2\bin\De
 C:\Users\yalta\OneDrive\Project Visual Studio\source\repos\TN\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
 C:\Users\yalta\OneDrive\Project Visual Studio\source\repos\TN\ConsoleApp2\obj\Debug\ConsoleApp2.exe
 C:\Users\yalta\OneDrive\Project Visual Studio\source\repos\TN\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\ConsoleApp2\obj\Debug\Array.csprojResolveAssemblyReference.cache
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\ConsoleApp2\obj\Debug\Array.csproj.CoreCompileInputs.cache
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

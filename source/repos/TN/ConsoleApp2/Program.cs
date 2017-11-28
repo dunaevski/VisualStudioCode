@@ -8,7 +8,11 @@ namespace ConsoleApp2
 {
     class Program
     {
-
+        /// <summary>
+        /// Function returns index of max element
+        /// </summary>
+        /// <param name="a">Array int numbers</param>
+        /// <returns>index of max element</returns>
         static int GetIndexMaxElement(int[] a)
         {
             int max = a[0];
@@ -17,8 +21,8 @@ namespace ConsoleApp2
             {
                 if (a[i]>max)
                 {
+                    max = a[i];
                     indexMax = i;
-
                 }
             }
             return indexMax;
@@ -51,13 +55,21 @@ namespace ConsoleApp2
                 arri[i] = random.Next(150);
                 Console.Write(arri[i] + "\t");
             }
+            Console.WriteLine();
+
+            Console.WriteLine("Index of max element {0} arrays: {1}", arri[GetIndexMaxElement(arri)],GetIndexMaxElement(arri));
+            Console.WriteLine();
+            Console.WriteLine(("Index of max element new arrays: " +
+                               GetIndexMaxElement(new int[] {2, 9, 7, 5, 6, 3, 4, 1, 8})));
+            Console.WriteLine();
 
             Console.WriteLine("\nArray double random numbers");
             for (int i = 0; i < arrd.Length; i++)
             {
                 arrd[i] = random.NextDouble()*10;
-                Console.Write("{0:0:000}", arrd[i] + "\t");
+                Console.Write("{0:0.00}  ", arrd[i] + "\t");
             }
+            Console.WriteLine();
 
             Console.WriteLine("Return array from function");
             int[] a1 = new[] { 2, 4, 7 };
@@ -67,10 +79,16 @@ namespace ConsoleApp2
             {
                 Console.WriteLine(e + "   ");
             }
+            Console.WriteLine("\n");
+
+            Console.WriteLine("Dinamic's Array");
+            Console.WriteLine("Enter index of array");
+            int size = int.Parse(Console.ReadLine());
+            int[] arrput = new int[size];
+            
+
 
             Console.ReadLine();
-
-
         }
     }
 }
