@@ -1,52 +1,42 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ArrayNew
 {
     class Program
     {
-        static void Return(int[] a)
+        private static void Return()
         {
-            const int sum = 10;
-
-            for (int i = 10; i < a.Length; i++)
+            const int size = 2018;
+            var arrInts = new int[120];
+            var number = new int[size];
+            var index = 0;
+            for (int i = 0; i < size; i++)
             {
-                int sum1;
-                int n;
-                int m;
-                if (a[i] > 100)
+                number[i] = i + 1;
+                var temp = number[i];
+                var sum = 0;
+                while (temp != 0)
                 {
-                    m = a[i] % 100;
-                    n = m % 10;
-                    var k = m / 10;
-                    sum1 = 1 + n + k;
+                    sum += temp % 10;
+                    temp /= 10;
                 }
-                else
+                if (sum == 10)
                 {
-                    m = a[i] % 10;
-                    n = a[i] / 10;
-                    sum1 = m + n;
+                    arrInts[index] = number[i];
+                    index++;
+                    if (index+1%12==0)
+                        Console.WriteLine("\n");
+                    else
+                        Console.Write(number[i] + "\t");
                 }
-
-                if (sum == sum1)
-                {
-                    Console.WriteLine(a[i]+ "\n");
-                }
-
+                if (index == 120)
+                    break;
             }
         }
-        static void Main(string[] args)
-        {
-            int [] array = new int[120];
-            for (int i = 0; i < array.Length; i++)
-            {
-                array[i] = i;
-            }
 
-            Return(array);
+        static void Main()
+        {
+            Return();
             Console.ReadLine();
         }
     }
