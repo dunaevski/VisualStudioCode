@@ -111,6 +111,17 @@ namespace Array
                 }
                 Console.WriteLine();
             }
+            Console.WriteLine("\nUse function ModifyMatrix\n");
+
+            ModifyMatrix(matrix1);
+            for (int i = 0; i < matrix1.GetLength(0); i++)
+            {
+                for (int j = 0; j < matrix1.GetLength(1); j++)
+                {
+                    Console.Write(matrix1[i,j] + "\t");
+                }
+                Console.WriteLine();
+            }
 
             Console.ReadLine();
         }

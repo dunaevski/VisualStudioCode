@@ -12,3 +12,10 @@ C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\ConsoleApp2\obj\
 C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\ConsoleApp2\obj\Debug\Array.csproj.CoreCompileInputs.cache
 C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\ConsoleApp2\obj\Debug\ConsoleApp2.exe
 C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\Array\bin\Debug\Array.exe.config
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\Array\bin\Debug\Array.exe
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\Array\bin\Debug\Array.pdb
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\Array\obj\Debug\Array.csprojResolveAssemblyReference.cache
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\Array\obj\Debug\Array.csproj.CoreCompileInputs.cache
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\Array\obj\Debug\Array.exe
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\Array\obj\Debug\Array.pdb
