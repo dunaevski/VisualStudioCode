@@ -129,7 +129,20 @@ namespace Array
                 Console.Write(e * 2 + "\t");
             }
             Console.WriteLine();
-
+            Console.WriteLine("Example work with array array's ");
+            for (int i = 0; i < matrix2.GetLength(0); i++)
+            {
+                matrix2[i] = new int[random.Next(10) + 1];
+            }
+            for (int i = 0; i < matrix2.GetLength(0); i++)
+            {
+                for (int j = 0; j < matrix2[i].Length; j++)
+                {
+                    matrix2[i][j] = random.Next(10);
+                    Console.Write(matrix2[i][j] + "\t");
+                }
+                Console.WriteLine();
+            }
             Console.ReadLine();
         }
     }
