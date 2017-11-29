@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27004.2009
+VisualStudioVersion = 15.0.27004.2010
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConsol", "TestConsol\TestConsol.csproj", "{503C110F-0BB7-4BFA-83ED-C3B472CA9FDF}"
 EndProject
@@ -10,8 +10,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExIfElse", "ExIfElse\ExIfElse.csproj", "{EE18842F-84F2-4414-8244-708E135FC902}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Average", "average\Average.csproj", "{34539ADD-EECB-40FB-9317-329DBE376DD6}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "for_while", "for_while\for_while.csproj", "{528DC3D1-A0DF-4725-8CCD-E6C9B2CE6CFE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array", "Array\Array.csproj", "{918DA316-6071-46BA-BF6A-5FF49C8123ED}"
 EndProject
@@ -37,10 +35,6 @@ Global
 		{34539ADD-EECB-40FB-9317-329DBE376DD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{34539ADD-EECB-40FB-9317-329DBE376DD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{34539ADD-EECB-40FB-9317-329DBE376DD6}.Release|Any CPU.Build.0 = Release|Any CPU
-		{528DC3D1-A0DF-4725-8CCD-E6C9B2CE6CFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{528DC3D1-A0DF-4725-8CCD-E6C9B2CE6CFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{528DC3D1-A0DF-4725-8CCD-E6C9B2CE6CFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{528DC3D1-A0DF-4725-8CCD-E6C9B2CE6CFE}.Release|Any CPU.Build.0 = Release|Any CPU
 		{918DA316-6071-46BA-BF6A-5FF49C8123ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{918DA316-6071-46BA-BF6A-5FF49C8123ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{918DA316-6071-46BA-BF6A-5FF49C8123ED}.Release|Any CPU.ActiveCfg = Release|Any CPU

@@ -123,6 +123,13 @@ namespace Array
                 Console.WriteLine();
             }
 
+            Console.WriteLine("Example use array with foreach");
+            foreach (var e in matrix3)
+            {
+                Console.Write(e * 2 + "\t");
+            }
+            Console.WriteLine();
+
             Console.ReadLine();
         }
     }
