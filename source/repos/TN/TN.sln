@@ -17,8 +17,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array", "Array\Array.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayNew", "ArrayNew\ArrayNew.csproj", "{22AE7620-4F6E-492C-8A76-435DA73DE6E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoDimensionalArray", "twoDimensionalArray\TwoDimensionalArray.csproj", "{840596CC-1622-4B19-AD93-906D00375559}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -53,10 +51,6 @@ Global
 		{22AE7620-4F6E-492C-8A76-435DA73DE6E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22AE7620-4F6E-492C-8A76-435DA73DE6E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22AE7620-4F6E-492C-8A76-435DA73DE6E5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{840596CC-1622-4B19-AD93-906D00375559}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{840596CC-1622-4B19-AD93-906D00375559}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{840596CC-1622-4B19-AD93-906D00375559}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{840596CC-1622-4B19-AD93-906D00375559}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
