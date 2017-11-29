@@ -1,0 +1,7 @@
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\ArrayNew\bin\Debug\ArrayNew.exe.config
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\ArrayNew\bin\Debug\ArrayNew.exe
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\ArrayNew\bin\Debug\ArrayNew.pdb
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\ArrayNew\obj\Debug\ArrayNew.csprojResolveAssemblyReference.cache
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\ArrayNew\obj\Debug\ArrayNew.csproj.CoreCompileInputs.cache
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\ArrayNew\obj\Debug\ArrayNew.exe
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\ArrayNew\obj\Debug\ArrayNew.pdb
