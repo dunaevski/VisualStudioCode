@@ -1,10 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace ConsoleApp2
+namespace Array
 {
     class Program
     {
@@ -19,7 +15,7 @@ namespace ConsoleApp2
             int indexMax = 0;
             for (int i = 0; i < a.Length; i++)
             {
-                if (a[i]>max)
+                if (a[i] > max)
                 {
                     max = a[i];
                     indexMax = i;
@@ -27,17 +23,31 @@ namespace ConsoleApp2
             }
             return indexMax;
         }
-
         //======================================================================================
-        static int[] ArrayPow(int[]a, int n)
+
+        static int[] ArrayPow(int[] a, int n)
         {
             int[] arrNew = new int[a.Length];
             for (int i = 0; i < a.Length; i++)
             {
-                arrNew[i] = (int) Math.Pow(a[i], n);
+                arrNew[i] = (int)Math.Pow(a[i], n);
             }
             return arrNew;
+        }
+        //=================================================================
 
+        static void ModifyMatrix(int[,] matr)
+        {
+            for (int i = 0; i < matr.GetLength(0); i++)
+            {
+                for (int j = 0; j < matr.GetLength(1); j++)
+                {
+                    if (i == j)
+                    {
+                        matr[i, j] = 0;
+                    }
+                }
+            }
         }
         static void Main(string[] args)
         {
@@ -46,7 +56,7 @@ namespace ConsoleApp2
             int[] arri;
             arri = new int[10];
             double[] arrd = new double[5];
-            int[] arri2 = {3, 1, 5, 6, 7};
+            int[] arri2 = { 3, 1, 5, 6, 7 };
 
             Random random = new Random();
             Console.WriteLine("Array int random numbers");
@@ -57,16 +67,16 @@ namespace ConsoleApp2
             }
             Console.WriteLine();
 
-            Console.WriteLine("Index of max element {0} arrays: {1}", arri[GetIndexMaxElement(arri)],GetIndexMaxElement(arri));
+            Console.WriteLine("Index of max element {0} arrays: {1}", arri[GetIndexMaxElement(arri)], GetIndexMaxElement(arri));
             Console.WriteLine();
             Console.WriteLine(("Index of max element new arrays: " +
-                               GetIndexMaxElement(new int[] {2, 9, 7, 5, 6, 3, 4, 1, 8})));
+                               GetIndexMaxElement(new int[] { 2, 9, 7, 5, 6, 3, 4, 1, 8 })));
             Console.WriteLine();
 
             Console.WriteLine("\nArray double random numbers");
             for (int i = 0; i < arrd.Length; i++)
             {
-                arrd[i] = random.NextDouble()*10;
+                arrd[i] = random.NextDouble() * 10;
                 Console.Write("{0:0.00}  ", arrd[i] + "\t");
             }
             Console.WriteLine();
@@ -85,8 +95,22 @@ namespace ConsoleApp2
             Console.WriteLine("Enter index of array");
             int size = int.Parse(Console.ReadLine());
             int[] arrput = new int[size];
-            
 
+
+            Console.WriteLine("Two Dimensional Array");
+            int[,] matrix1 = new int[4, 4];
+            int[][] matrix2 = new int[5][]; // неровные массивы 
+            int[,] matrix3 = { { 1, 2, 3 }, { 3, 5, 6 } };
+
+            for (int i = 0; i < matrix1.GetLength(0); i++)
+            {
+                for (int j = 0; j < matrix1.GetLength(1); j++)
+                {
+                    matrix1[i, j] = random.Next(20);
+                    Console.Write(matrix1[i, j] + "\t");
+                }
+                Console.WriteLine();
+            }
 
             Console.ReadLine();
         }
