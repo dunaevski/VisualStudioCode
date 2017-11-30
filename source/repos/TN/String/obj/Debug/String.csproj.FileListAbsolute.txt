@@ -1,0 +1,7 @@
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\String\obj\Debug\String.csprojResolveAssemblyReference.cache
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\String\obj\Debug\String.csproj.CoreCompileInputs.cache
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\String\bin\Debug\String.exe.config
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\String\bin\Debug\String.exe
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\String\bin\Debug\String.pdb
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\String\obj\Debug\String.exe
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\String\obj\Debug\String.pdb

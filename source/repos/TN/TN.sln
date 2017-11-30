@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Average", "average\Average.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array", "Array\Array.csproj", "{918DA316-6071-46BA-BF6A-5FF49C8123ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String", "String\String.csproj", "{9A227895-EBD2-48A2-9FA8-345931EEDCA4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{918DA316-6071-46BA-BF6A-5FF49C8123ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{918DA316-6071-46BA-BF6A-5FF49C8123ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{918DA316-6071-46BA-BF6A-5FF49C8123ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A227895-EBD2-48A2-9FA8-345931EEDCA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A227895-EBD2-48A2-9FA8-345931EEDCA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A227895-EBD2-48A2-9FA8-345931EEDCA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A227895-EBD2-48A2-9FA8-345931EEDCA4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
