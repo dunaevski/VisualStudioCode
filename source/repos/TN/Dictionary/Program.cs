@@ -20,7 +20,19 @@ namespace Dictionary
             {
                 Console.WriteLine(elemKeyValuePair.Key + " = " + elemKeyValuePair);
             }
+
+            Console.WriteLine(dictionary['b']);
+            dictionary['b'] = "Hello world";
+            Console.WriteLine(dictionary['b']);
+            dictionary.Remove('d');
+            foreach (KeyValuePair<char, string> elemKeyValuePair in dictionary)
+            {
+                Console.WriteLine(elemKeyValuePair.Key + " = " + elemKeyValuePair);
+            }
+
+
             Console.ReadLine();
+
         }
     }
 }
