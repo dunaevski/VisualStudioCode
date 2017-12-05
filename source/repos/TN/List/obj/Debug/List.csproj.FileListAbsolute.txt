@@ -1,0 +1,6 @@
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\List\bin\Debug\List.exe.config
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\List\bin\Debug\List.exe
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\List\bin\Debug\List.pdb
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\List\obj\Debug\List.csproj.CoreCompileInputs.cache
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\List\obj\Debug\List.exe
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\List\obj\Debug\List.pdb

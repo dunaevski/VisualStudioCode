@@ -1,0 +1,6 @@
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\Dictionary\bin\Debug\Dictionary.exe.config
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\Dictionary\bin\Debug\Dictionary.exe
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\Dictionary\bin\Debug\Dictionary.pdb
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\Dictionary\obj\Debug\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\Dictionary\obj\Debug\Dictionary.exe
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\Dictionary\obj\Debug\Dictionary.pdb

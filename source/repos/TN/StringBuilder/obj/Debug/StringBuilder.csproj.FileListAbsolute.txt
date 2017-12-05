@@ -1,0 +1,7 @@
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\StringBuilder\bin\Debug\StringBuilder.exe.config
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\StringBuilder\bin\Debug\StringBuilder.exe
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\StringBuilder\bin\Debug\StringBuilder.pdb
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\StringBuilder\obj\Debug\StringBuilder.csprojResolveAssemblyReference.cache
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\StringBuilder\obj\Debug\StringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\StringBuilder\obj\Debug\StringBuilder.exe
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\StringBuilder\obj\Debug\StringBuilder.pdb
