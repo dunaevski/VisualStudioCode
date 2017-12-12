@@ -1,0 +1,6 @@
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\Polindrom\obj\Debug\Polindrom.csproj.CoreCompileInputs.cache
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\Polindrom\bin\Debug\Polindrom.exe.config
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\Polindrom\bin\Debug\Polindrom.exe
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\Polindrom\bin\Debug\Polindrom.pdb
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\Polindrom\obj\Debug\Polindrom.exe
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\Polindrom\obj\Debug\Polindrom.pdb
