@@ -4,3 +4,10 @@ C:\Users\yalta\OneDrive\Project Visual Studio\source\repos\TN\ConsoleApp1\bin\De
 C:\Users\yalta\OneDrive\Project Visual Studio\source\repos\TN\ConsoleApp1\obj\Debug\TestConsol.csproj.CoreCompileInputs.cache
 C:\Users\yalta\OneDrive\Project Visual Studio\source\repos\TN\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 C:\Users\yalta\OneDrive\Project Visual Studio\source\repos\TN\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\TestConsol\bin\Debug\ConsoleApp1.exe.config
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\TestConsol\bin\Debug\ConsoleApp1.exe
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\TestConsol\bin\Debug\ConsoleApp1.pdb
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\TestConsol\obj\Debug\TestConsol.csprojResolveAssemblyReference.cache
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\TestConsol\obj\Debug\TestConsol.csproj.CoreCompileInputs.cache
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\TestConsol\obj\Debug\ConsoleApp1.exe
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\TestConsol\obj\Debug\ConsoleApp1.pdb

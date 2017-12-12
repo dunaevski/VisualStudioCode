@@ -1,0 +1,10 @@
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\FormsComboBox\bin\Debug\FormsComboBox.exe.config
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\FormsComboBox\bin\Debug\FormsComboBox.exe
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\FormsComboBox\bin\Debug\FormsComboBox.pdb
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\FormsComboBox\obj\Debug\FormsComboBox.csprojResolveAssemblyReference.cache
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\FormsComboBox\obj\Debug\FormsComboBox.Form1.resources
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\FormsComboBox\obj\Debug\FormsComboBox.Properties.Resources.resources
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\FormsComboBox\obj\Debug\FormsComboBox.csproj.GenerateResource.Cache
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\FormsComboBox\obj\Debug\FormsComboBox.csproj.CoreCompileInputs.cache
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\FormsComboBox\obj\Debug\FormsComboBox.exe
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\FormsComboBox\obj\Debug\FormsComboBox.pdb

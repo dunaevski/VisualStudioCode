@@ -1,0 +1,10 @@
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\Forms\bin\Debug\Forms.exe.config
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\Forms\bin\Debug\Forms.exe
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\Forms\bin\Debug\Forms.pdb
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\Forms\obj\Debug\Forms.csprojResolveAssemblyReference.cache
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\Forms\obj\Debug\Forms.Form1.resources
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\Forms\obj\Debug\Forms.Properties.Resources.resources
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\Forms\obj\Debug\Forms.csproj.GenerateResource.Cache
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\Forms\obj\Debug\Forms.csproj.CoreCompileInputs.cache
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\Forms\obj\Debug\Forms.exe
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\Forms\obj\Debug\Forms.pdb
