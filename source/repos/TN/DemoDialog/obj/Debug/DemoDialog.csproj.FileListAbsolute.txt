@@ -1,0 +1,10 @@
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\DemoDialog\bin\Debug\DemoDialog.exe.config
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\DemoDialog\bin\Debug\DemoDialog.exe
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\DemoDialog\bin\Debug\DemoDialog.pdb
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\DemoDialog\obj\Debug\DemoDialog.csprojResolveAssemblyReference.cache
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\DemoDialog\obj\Debug\DemoDialog.Form1.resources
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\DemoDialog\obj\Debug\DemoDialog.Properties.Resources.resources
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\DemoDialog\obj\Debug\DemoDialog.csproj.GenerateResource.Cache
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\DemoDialog\obj\Debug\DemoDialog.csproj.CoreCompileInputs.cache
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\DemoDialog\obj\Debug\DemoDialog.exe
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\DemoDialog\obj\Debug\DemoDialog.pdb
