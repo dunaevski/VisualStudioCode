@@ -1,0 +1,10 @@
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\Task_3\bin\Debug\Task_3.exe.config
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\Task_3\bin\Debug\Task_3.exe
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\Task_3\bin\Debug\Task_3.pdb
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\Task_3\obj\Debug\Task_3.csprojResolveAssemblyReference.cache
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\Task_3\obj\Debug\Task_3.Form1.resources
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\Task_3\obj\Debug\Task_3.Properties.Resources.resources
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\Task_3\obj\Debug\Task_3.csproj.GenerateResource.Cache
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\Task_3\obj\Debug\Task_3.csproj.CoreCompileInputs.cache
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\Task_3\obj\Debug\Task_3.exe
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\Task_3\obj\Debug\Task_3.pdb

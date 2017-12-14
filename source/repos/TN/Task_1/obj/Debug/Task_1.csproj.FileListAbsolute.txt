@@ -1,0 +1,7 @@
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\Task_1\bin\Debug\Task_1.exe.config
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\Task_1\bin\Debug\Task_1.exe
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\Task_1\bin\Debug\Task_1.pdb
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\Task_1\obj\Debug\Task_1.csproj.CoreCompileInputs.cache
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\Task_1\obj\Debug\Task_1.exe
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\Task_1\obj\Debug\Task_1.pdb
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\Task_1\obj\Debug\Task_1.csprojResolveAssemblyReference.cache
