@@ -21,9 +21,12 @@ namespace Block
 
         public bool SameBlock(Block objBlock)
         {
-            if (length == objBlock.length && width == objBlock.width && height == objBlock.height)
-                return true;
-            return false;
+            return length == objBlock.length && width == objBlock.width && height == objBlock.height;
+        }
+
+        public bool SameVolume(Block objBlock)
+        {
+            return this.volume == objBlock.volume;
         }
 
     }
