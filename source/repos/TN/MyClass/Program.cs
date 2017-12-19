@@ -11,7 +11,12 @@ namespace MyClass
         static void Main(string[] args)
         {
             MyClass myClass = new MyClass(10);
-            int size = myClass.
+            int size = myClass.get_n();
+            Console.WriteLine("Length arr = " + size);
+            foreach (var VARIABLE in myClass.get_a())
+                Console.Write(VARIABLE + "  ");
+            Console.Write("]n Введите кол-во сумированых элементов не более " + myClass.get_n());
+            Console.ReadKey();
         }
     }
 
