@@ -10,13 +10,24 @@ namespace Task_2
     {
         static void Main(string[] args)
         {
-            int[] A = new[] {1, 3, 5, 10, 5, 10, 3, 11, 12, 5};
-            foreach (var i in A)
+            int n;
+            Console.WriteLine("Введите размер массива: ");
+            n =Int32.Parse(Console.ReadLine());
+            Random random =new Random();
+            int[] A = new int[n];
+            for (int i = 0; i < n; i++)
             {
-                var count = A.Count(t => i == t);
-                Console.WriteLine("{0} повторяеться {1} раз", i, count);
+                A[i] = random.Next(10);
             }
-           
+            for (var index = 0; index < A.Length; index++)
+            {
+                var i = A[index];
+                var count = A.Count(t => i == t);
+                Console.Write(i+" ");
+                if (index == A.Length-1)
+                    Console.WriteLine("\n{0} повторяется {1} раз", i, count);
+            }
+
             Console.ReadKey();
         }
     }

@@ -24,18 +24,21 @@ namespace Task_3
 
         private void textBox1_KeyPress(object sender, KeyPressEventArgs e)
         {
-            if (e.KeyChar == (char) Keys.Enter)
-            {
-                var num = textBox1.Text;
-                var max = string.Concat(num.OrderByDescending(n => n));
-                var min = string.Concat(num.OrderBy(n => n).ToArray());
-                var sum = (long.Parse(max) + long.Parse(min)).ToString();
-                var diff = (long.Parse(max) - long.Parse(min)).ToString(); 
-                textBox2.Text = max;
-                textBox3.Text = min;
-                textBox4.Text = sum;
-                textBox5.Text = diff;
-            }
+            if (e.KeyChar != (char) Keys.Enter) return;
+            var num = textBox1.Text;
+            var max = string.Concat(num.OrderByDescending(n => n));
+            var min = string.Concat(num.OrderBy(n => n).ToArray());
+            var sum = (long.Parse(max) + long.Parse(min)).ToString();
+            var diff = (long.Parse(max) - long.Parse(min)).ToString(); 
+            textBox2.Text = max;
+            textBox3.Text = min;
+            textBox4.Text = sum;
+            textBox5.Text = diff;
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
