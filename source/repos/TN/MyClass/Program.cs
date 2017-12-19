@@ -21,6 +21,17 @@ namespace MyClass
                 Console.WriteLine("summ ne vozmojno");
             else
                 Console.WriteLine("Sum {0} element of arr = {1}", number, myClass.summarr(number));
+
+            int[] array = new int[12];
+            Random random = new Random();
+            Console.WriteLine("Mass for inicializ class: ");
+            for (int i = 0; i < array.Length; i++)
+            {
+                array[i] = random.Next(50);
+                Console.Write(array[i] + " ");
+            }
+            MyClass myClass1 = new MyClass(array);
+            Console.WriteLine("\n ");
             Console.ReadKey();
         }
     }
