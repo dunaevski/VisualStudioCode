@@ -1,0 +1,7 @@
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\MyClass\bin\Debug\MyClass.exe.config
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\MyClass\bin\Debug\MyClass.exe
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\MyClass\bin\Debug\MyClass.pdb
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\MyClass\obj\Debug\MyClass.csprojResolveAssemblyReference.cache
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\MyClass\obj\Debug\MyClass.csproj.CoreCompileInputs.cache
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\MyClass\obj\Debug\MyClass.exe
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\MyClass\obj\Debug\MyClass.pdb

@@ -15,7 +15,12 @@ namespace MyClass
             Console.WriteLine("Length arr = " + size);
             foreach (var VARIABLE in myClass.get_a())
                 Console.Write(VARIABLE + "  ");
-            Console.Write("]n Введите кол-во сумированых элементов не более " + myClass.get_n());
+            Console.Write("\n Введите кол-во сумированых элементов не более " + myClass.get_n());
+            int number = Convert.ToInt32(Console.ReadLine());
+            if (number>size)
+                Console.WriteLine("summ ne vozmojno");
+            else
+                Console.WriteLine("Sum {0} element of arr = {1}", number, myClass.summarr(number));
             Console.ReadKey();
         }
     }
