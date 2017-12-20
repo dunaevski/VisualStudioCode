@@ -1,0 +1,7 @@
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\Sumator\bin\Debug\Sumator.exe.config
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\Sumator\bin\Debug\Sumator.exe
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\Sumator\bin\Debug\Sumator.pdb
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\Sumator\obj\Debug\Sumator.csprojResolveAssemblyReference.cache
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\Sumator\obj\Debug\Sumator.csproj.CoreCompileInputs.cache
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\Sumator\obj\Debug\Sumator.exe
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\Sumator\obj\Debug\Sumator.pdb

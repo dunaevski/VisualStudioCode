@@ -13,7 +13,7 @@ namespace Sumator
         public Sumator(int num)
         {
             summa = 0;
-            for (int i = 0; i < num; i++)
+            for (int i = 0; i <= num; i++)
                 summa += i;
         }
 
@@ -26,6 +26,12 @@ namespace Sumator
     {
         static void Main(string[] args)
         {
+            Sumator s1 = new Sumator(9);
+            Sumator s2 = new Sumator(s1);
+            Console.WriteLine("Object s1 = " + s1.summa);
+            Console.WriteLine("Object s2 = " + s2.summa);
+            Console.ReadLine();
+
         }
     }
 }
