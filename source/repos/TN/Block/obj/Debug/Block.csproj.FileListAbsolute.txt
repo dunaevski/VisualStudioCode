@@ -1,0 +1,7 @@
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\Block\bin\Debug\Block.exe.config
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\Block\bin\Debug\Block.exe
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\Block\bin\Debug\Block.pdb
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\Block\obj\Debug\Block.csprojResolveAssemblyReference.cache
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\Block\obj\Debug\Block.csproj.CoreCompileInputs.cache
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\Block\obj\Debug\Block.exe
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\Block\obj\Debug\Block.pdb

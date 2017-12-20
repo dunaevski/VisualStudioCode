@@ -34,6 +34,23 @@ namespace Block
     {
         static void Main(string[] args)
         {
+            Block block = new Block(4, 5, 6);
+            Block block1 = new Block(4, 5, 6);
+            Block block2 = new Block(10, 2, 6);
+
+            if (block.SameBlock(block1))
+            {
+                Console.WriteLine("Object is ravnu");
+            }
+            if (block.SameVolume(block2))
+            {
+                Console.WriteLine("Volume is ravnu");
+            }
+            if (!block.SameBlock(block2))
+            {
+                Console.WriteLine("ne ravnu");
+            }
+            Console.ReadKey();
 
         }
     }
