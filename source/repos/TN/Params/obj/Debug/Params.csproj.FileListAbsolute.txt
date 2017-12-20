@@ -1,0 +1,6 @@
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\Params\bin\Debug\Params.exe.config
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\Params\bin\Debug\Params.exe
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\Params\bin\Debug\Params.pdb
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\Params\obj\Debug\Params.csproj.CoreCompileInputs.cache
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\Params\obj\Debug\Params.exe
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\Params\obj\Debug\Params.pdb
