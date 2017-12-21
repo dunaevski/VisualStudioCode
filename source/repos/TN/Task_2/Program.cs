@@ -10,24 +10,19 @@ namespace Task_2
     {
         static void Main(string[] args)
         {
-            int n;
             Console.WriteLine("Введите размер массива: ");
-            n =Int32.Parse(Console.ReadLine());
-            Random random =new Random();
-            int[] A = new int[n];
-            for (int i = 0; i < n; i++)
+            var n = int.Parse(Console.ReadLine());
+            var random =new Random();
+            var a = new int[n];
+            var count = new int[a.Length];
+            for (var i = 0; i < a.Length; i++)
+                a[i] = random.Next(10);
+            for (var index = 0; index < a.Length; index++)
             {
-                A[i] = random.Next(10);
+                count[index] = a.Count(t => a[index] == t);
+                Console.Write(a[index] + " ");
             }
-            for (var index = 0; index < A.Length; index++)
-            {
-                var i = A[index];
-                var count = A.Count(t => i == t);
-                Console.Write(i+" ");
-                if (index == A.Length-1)
-                    Console.WriteLine("\n{0} повторяется {1} раз", i, count);
-            }
-
+            Console.WriteLine("\n{0} повторяется {1} раз", a[count.Max()], count.Max());
             Console.ReadKey();
         }
     }
