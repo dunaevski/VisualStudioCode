@@ -1,0 +1,7 @@
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\DemoMyArray\bin\Debug\DemoMyArray.exe.config
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\DemoMyArray\bin\Debug\DemoMyArray.exe
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\DemoMyArray\bin\Debug\DemoMyArray.pdb
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\DemoMyArray\obj\Debug\DemoMyArray.csprojResolveAssemblyReference.cache
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\DemoMyArray\obj\Debug\DemoMyArray.csproj.CoreCompileInputs.cache
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\DemoMyArray\obj\Debug\DemoMyArray.exe
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\DemoMyArray\obj\Debug\DemoMyArray.pdb
