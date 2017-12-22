@@ -1,0 +1,7 @@
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\Operator\bin\Debug\Operator.exe.config
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\Operator\bin\Debug\Operator.exe
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\Operator\bin\Debug\Operator.pdb
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\Operator\obj\Debug\Operator.csproj.CoreCompileInputs.cache
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\Operator\obj\Debug\Operator.exe
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\Operator\obj\Debug\Operator.pdb
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\Operator\obj\Debug\Operator.csprojResolveAssemblyReference.cache
