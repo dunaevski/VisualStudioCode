@@ -1,0 +1,12 @@
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\ChiterBoke\bin\Debug\Database1.mdf
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\ChiterBoke\bin\Debug\Database1_log.ldf
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\ChiterBoke\bin\Debug\ChiterBoke.exe.config
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\ChiterBoke\bin\Debug\ChiterBoke.exe
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\ChiterBoke\bin\Debug\ChiterBoke.pdb
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\ChiterBoke\obj\Debug\ChiterBoke.csprojResolveAssemblyReference.cache
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\ChiterBoke\obj\Debug\ChiterBoke.Form1.resources
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\ChiterBoke\obj\Debug\ChiterBoke.Properties.Resources.resources
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\ChiterBoke\obj\Debug\ChiterBoke.csproj.GenerateResource.Cache
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\ChiterBoke\obj\Debug\ChiterBoke.csproj.CoreCompileInputs.cache
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\ChiterBoke\obj\Debug\ChiterBoke.exe
+C:\Users\yalta\OneDrive\github\VisualStudioCode\source\repos\TN\ChiterBoke\obj\Debug\ChiterBoke.pdb

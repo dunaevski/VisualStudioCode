@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27130.2003
+VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "for_while", "for_while\for_while.csproj", "{528DC3D1-A0DF-4725-8CCD-E6C9B2CE6CFE}"
 EndProject
@@ -18,6 +18,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_3", "Task_3\Task_3.csproj", "{21FA7FCC-D8D2-4657-8AB3-CC6E1566171C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operator", "Operator\Operator.csproj", "{204FF763-7211-4AE9-A166-A503F4E4E64B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChiterBoke", "ChiterBoke\ChiterBoke.csproj", "{D0D27008-A477-4732-B63B-592CFBB93380}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{204FF763-7211-4AE9-A166-A503F4E4E64B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{204FF763-7211-4AE9-A166-A503F4E4E64B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{204FF763-7211-4AE9-A166-A503F4E4E64B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0D27008-A477-4732-B63B-592CFBB93380}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0D27008-A477-4732-B63B-592CFBB93380}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0D27008-A477-4732-B63B-592CFBB93380}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0D27008-A477-4732-B63B-592CFBB93380}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

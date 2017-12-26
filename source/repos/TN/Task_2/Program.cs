@@ -1,17 +1,14 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Task_2
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             Console.WriteLine("Введите размер массива: ");
-            var n = int.Parse(Console.ReadLine());
+            var n = int.Parse(s: Console.ReadLine() ?? throw new InvalidOperationException());
             var random =new Random();
             var a = new int[n];
             // var a = new int[9] {2,1,3,8,1,1,2,8,9};
